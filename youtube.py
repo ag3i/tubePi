@@ -11,8 +11,8 @@ def youtube_channel_detail(channel_id, api_key):
     return search_response['items'][0]
 
 def main():
-    channel_id = "" 
-    api_key = ""
+    channel_id = "" #　ID of the youtube channel you want to get
+    api_key = "" # your GCP api key
     date = youtube_channel_detail('channel_id', 'api_key') 
     path = Path.cwd() / Path(__file__).parents[0] / "speak.txt"
     file = open(path, 'w',encoding='UTF-8')
