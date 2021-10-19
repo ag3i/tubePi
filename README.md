@@ -1,5 +1,5 @@
 # tubePi
-タクトスイッチをトリガーにraspiに任意のyoutubeの登録者を喋らせる
+タクトスイッチをトリガーにraspiに任意のyoutubeの登録者を喋らせる<br>
 シェルスクリプトなどでyoutube.pyを定期実行させる
 # Must
 
