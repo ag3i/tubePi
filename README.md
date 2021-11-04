@@ -1,5 +1,5 @@
 # 概要
 タクトスイッチをトリガーにraspiに任意のyoutubeの登録者を喋らせる<br>
-シェルスクリプトなどでyoutube.pyを定期実行させる
-# necessary
-need to install RPi.GPIO on your raspi
+youtube.pyを定期実行し登録者を常に最新にする
+# 必須
+手持ちのRasPiにRPi.GPIOをインストールする必要がある
